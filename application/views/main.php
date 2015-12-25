@@ -2,11 +2,11 @@
 <html lang="en">
 
 <head>
-    <?$this->load->view('/include/head_btm');?>
+    <?$this->load->view('/include/Head_btm');?>
 </head>
 <body>
 	<!-- Navi -->
-	<?$this->load->view('/include/head_navi')?>
+	<?$this->load->view('/include/Head_navi')?>
 	<!-- Navi End -->
 	
     <!-- Header Carousel -->
@@ -181,7 +181,7 @@
         </div>
         <hr>
         <!-- Footer -->
-        <?$this->load->view('/include/footer');?>
+        <?$this->load->view('/include/Footer');?>
         <!-- Footer END -->
     </div>
     <!-- /.container -->
